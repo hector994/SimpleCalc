@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcpro.Android", "calcpro\calcpro.Android\calcpro.Android.csproj", "{FD48C7F9-F796-461F-B270-5527F1AF39AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcpro", "calcpro\calcpro\calcpro.csproj", "{05BDFA7A-D3EF-4B5F-B7F7-0044A6A7313D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD48C7F9-F796-461F-B270-5527F1AF39AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD48C7F9-F796-461F-B270-5527F1AF39AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD48C7F9-F796-461F-B270-5527F1AF39AD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD48C7F9-F796-461F-B270-5527F1AF39AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD48C7F9-F796-461F-B270-5527F1AF39AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD48C7F9-F796-461F-B270-5527F1AF39AD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{05BDFA7A-D3EF-4B5F-B7F7-0044A6A7313D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BDFA7A-D3EF-4B5F-B7F7-0044A6A7313D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BDFA7A-D3EF-4B5F-B7F7-0044A6A7313D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{05BDFA7A-D3EF-4B5F-B7F7-0044A6A7313D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BDFA7A-D3EF-4B5F-B7F7-0044A6A7313D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BDFA7A-D3EF-4B5F-B7F7-0044A6A7313D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1688B47-F575-432E-A598-9B85C01E70FB}
+	EndGlobalSection
+EndGlobal
